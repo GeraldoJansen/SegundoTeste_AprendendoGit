@@ -1,0 +1,11 @@
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\bin\Debug\testeComGit2.exe.config
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\bin\Debug\testeComGit2.exe
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\bin\Debug\testeComGit2.pdb
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.csprojAssemblyReference.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.AboutBox1.resources
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.Form1.resources
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.Properties.Resources.resources
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.csproj.GenerateResource.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.csproj.CoreCompileInputs.cache
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.exe
+C:\Users\Dlink\Documents\Geraldo Jansen\Git\SegundoProjeto_Git\testeComGit2\testeComGit2\obj\Debug\testeComGit2.pdb
